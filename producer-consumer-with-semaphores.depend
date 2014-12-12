@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1418396328 source:/home/gabriel/Desarrollo/producer-consumer-with-semaphores/main.cpp
+	<iostream>
+	<iomanip>
+	<pthread.h>
+	<semaphore.h>
+	<stdlib.h>
+

@@ -1,2 +1,2 @@
-producer-consumer-with-semaphores
+producer-consumer-with-semaphores example
 =================================
